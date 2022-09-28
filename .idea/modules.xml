@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class_01/Class_01.iml" filepath="$PROJECT_DIR$/Class_01/Class_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_Classes/Demo_Classes.iml" filepath="$PROJECT_DIR$/Demo_Classes/Demo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_Demo/Inheritance_Demo.iml" filepath="$PROJECT_DIR$/Inheritance_Demo/Inheritance_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method2/Method2.iml" filepath="$PROJECT_DIR$/Method2/Method2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodlamaioWeek2.iml" filepath="$PROJECT_DIR$/kodlamaioWeek2.iml" />
+    </modules>
+  </component>
+</project>
